@@ -1,0 +1,4 @@
+# Función para crear directorios:
+function mkt(){
+    mkdir {nmap,content,exploits,scripts}
+}
